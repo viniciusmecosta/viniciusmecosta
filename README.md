@@ -1,6 +1,18 @@
 # Hi, I'm Vinicius! 👋
 
-Welcome to my GitHub profile! I'm a backend developer. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a backend developer and a Computer Engineering student at IFCE - Fortaleza. Here's a little bit about me:
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmecosta&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusmecosta&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&theme=radical"/>
+</div>
+
+---
 
 ## 🔭 What I'm currently working on
 - Exploring new technologies and frameworks.
@@ -14,31 +26,29 @@ Welcome to my GitHub profile! I'm a backend developer. Here's a little bit about
 - Innovative and challenging software projects.
 - Community-driven initiatives.
 
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+## 🗄️ Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+</div>
+
 ## 📫 How to reach me
 - Email: costavinicius315@gmail.com
 - LinkedIn: [Vinicius Costa](https://www.linkedin.com/in/viniciusmecosta/)
 
 ## ⚡ Fun fact
-- I'm a big fan of Formula 1.
-
-## 🛠️ Languages and Tools
-- Java Spring Boot
-- Python
-- Flutter
-- Docker
-- Git
-- GitHub
-
-## 🗄️ Databases
-- Firebase
-- PostgreSQL
-- MySQL
-- Neo4j
-
-## 📈 GitHub Stats
-![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmecosta&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&theme=radical)
+- I'm a big fan of Formula 1. 🏎️💨
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. Have a great day! 😊
