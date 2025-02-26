@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a backend developer and a Computer Engineering
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmecosta&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusmecosta&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmecosta&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&theme=radical"/>
 </div>
 
 ---
