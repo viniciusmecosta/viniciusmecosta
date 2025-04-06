@@ -7,25 +7,25 @@ Welcome to my GitHub profile! I'm a backend developer and a Computer Engineering
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmecosta&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmecosta&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmecosta&layout=compact&hide_border=true&theme=dark" />
 </div>
 
 ---
 
 ## 🔭 What I'm currently working on
+
 - Exploring new technologies and frameworks.
 - Developing personal projects and experimenting with new ideas.
 
 ## 🌱 What I'm learning
+
 - Java Spring Boot.
 - Backend development with Python.
-
-## 👯 Looking to collaborate on
-- Innovative and challenging software projects.
-- Community-driven initiatives.
+- Frontend with React
 
 ## 🛠️ Languages and Tools
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a backend developer and a Computer Engineering
 </div>
 
 ## 🗄️ Databases
+
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -44,10 +45,12 @@ Welcome to my GitHub profile! I'm a backend developer and a Computer Engineering
 </div>
 
 ## 📫 How to reach me
+
 - Email: costavinicius315@gmail.com
 - LinkedIn: [Vinicius Costa](https://www.linkedin.com/in/viniciusmecosta/)
 
 ## ⚡ Fun fact
+
 - I'm a big fan of Formula 1. 🏎️💨
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. Have a great day! 😊
